@@ -1,5 +1,4 @@
 echo "##teamcity[testStarted name='TestPackage1.test1']"
-REM echo "##teamcity[testFailed name='TestPackage1.test1' message='failure message' details='message and stack trace']"
 echo "##teamcity[testFinished name='TestPackage1.test1']"
 
 echo "##teamcity[testStarted name='TestPackage1.test2']"
